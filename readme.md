@@ -7,3 +7,4 @@
 - add master 3
 - add hs 3
 - add master 4
+- add hs 4
